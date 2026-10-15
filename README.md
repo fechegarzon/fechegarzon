@@ -10,7 +10,6 @@
 
 | | |
 |---|---|
-| 📂 **[ai-systems-in-production](https://github.com/fechegarzon/ai-systems-in-production)** | Case studies of every system I built at LQN and DORA: architecture, decisions, results and what broke |
 | 🔐 **[mcp-readonly-gateway](https://github.com/fechegarzon/mcp-readonly-gateway)** | How I give agents tool access without giving them the keys: an MCP server with allowlists, limits, human confirmation and an audit log |
 | 💬 **[whatsapp-agent-kit](https://github.com/fechegarzon/whatsapp-agent-kit)** | Running an agent on the WhatsApp Cloud API safely: signed webhooks, idempotency, the 24-hour window and dry-run switches |
 | 🧪 **[agent-evals](https://github.com/fechegarzon/agent-evals)** | How I test agents before and after a change: eval suites, a pinned LLM judge, cost tracking and a regression gate in CI |
@@ -26,7 +25,7 @@
 | 286 | merged pull requests across 7 repositories in six months |
 | USD 8.4M | annualized rent guaranteed at DORA |
 
-Most of my work code belongs to my employer and lives in private repositories. The case studies above explain what each system does and how it is built. I'm happy to walk through any of them on a call.
+Most of my work code belongs to my employer and lives in private repositories. I walk through the architecture and results of each system on a call: [feche.xyz](https://feche.xyz).
 
 ## How I work
 
